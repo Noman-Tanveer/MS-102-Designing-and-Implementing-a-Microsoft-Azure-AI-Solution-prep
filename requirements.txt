@@ -1,1 +1,6 @@
 python-dotenv
+playsound
+# For Clock app
+azure-cognitiveservices-speech==1.28.0
+# For Translate Speech
+azure-cognitiveservices-speech==1.24.0
